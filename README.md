@@ -18,12 +18,13 @@ October 1, 2017
  5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 # Credits 
- 1. Script to load multiple packages
+ 1. License: Use of this dataset in publications must be acknowledged by referencing the following publication:  Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+ 2. Script to load multiple packages
    https://gist.github.com/RobertMyles/96665be044540e9ac668ee697dac6db7
- 2. General project advice from David Hood
+ 3. General project advice from David Hood
    https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
 
-# OBJECTIVE
+# Objective
 The README that explains the analysis files is clear and understandable. See 
 the code book for variable details.
 
