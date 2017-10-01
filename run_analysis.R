@@ -131,5 +131,5 @@ finalSummary[1:5,1:5]
 # Please upload your data set as a txt file created with write.table() 
 # using row.name=FALSE
 
-setwd("~/GitHub/Coursework")
-write.table(finalSummary, file="step5tidydatarmp.txt", row.names=FALSE)
+setwd("~/GitHub/Coursera-Getting-and-Cleaning-Data-Project")
+write.table(finalSummary, file="step5tidydatarmp.txt", sep = "\t", row.names=FALSE)
