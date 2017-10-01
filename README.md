@@ -2,6 +2,27 @@ Cleaning Data Week 4 Final Project
 Ruthie Macha Petty
 October 1, 2017
 
+# Project criteria
+ 1. The submitted data set is tidy.
+ 2. The Github repo contains the required scripts.
+ 3. GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
+ 4. The README that explains the analysis files is clear and understandable.
+ 5. The work submitted for this project is the work of the student who submitted it.
+
+# Script Criteria
+ Create one R script called run_analysis.R that does the following:
+ 1. Merges the training and the test sets to create one data set.
+ 2. Extracts only the measurements on the mean and standard deviation for each measurement.
+ 3. Uses descriptive activity names to name the activities in the data set
+ 4. Appropriately labels the data set with descriptive variable names.
+ 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+# Credits 
+ 1. Script to load multiple packages
+   https://gist.github.com/RobertMyles/96665be044540e9ac668ee697dac6db7
+ 2. General project advice from David Hood
+   https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
+
 # OBJECTIVE
 The README that explains the analysis files is clear and understandable. See 
 the code book for variable details.
